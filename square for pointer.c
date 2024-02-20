@@ -1,7 +1,6 @@
 /*
 Q.1 Write a Program to find the square of each element of a given 1D array using a Pointer.
 
-4, 16, 1, 9, 49
 */
 #include<stdio.h>
 
