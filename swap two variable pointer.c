@@ -23,6 +23,6 @@ void main(){
 	
 	*num1 = *num2;
 	*num2 = swap;
-	printf("swap = A = %d \nswap = B = %d",x,y);
+	printf("swap = A = %d \nswap = B = %d",*num1,*num2);
 	
 }
